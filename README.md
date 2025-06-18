@@ -1,6 +1,6 @@
 # Roll-A-Ball (Week 2)
 
-This is a simple Unity project designed to provide a clean starting point to continue developing Roll-A-Ball in the Week 2 lab. This project is complete up until the "Creating Collectibles" step.
+This is a simple Unity project designed to provide a clean starting point to continue developing Roll-A-Ball in the Week 2 lab. This project is complete up to and including the "Creating Walls" step.
 
 **Unity Version:** 2022.3 LTS
 
